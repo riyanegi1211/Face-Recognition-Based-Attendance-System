@@ -35,3 +35,8 @@ Facial recognition is becoming more prominent in our society. It has made major 
 ### Facial Recognition Algorithms
 * Haar Cascade
 * LBPH (Local Binary Pattern Histogram)
+
+## Flowchart of the project
+<p align="center">
+  <img src="[-4666-a218-656181eb80dc.png](https://user-images.githubusercontent.com/58062535/175374445-a5185fe3-1094-44d0-b598-6af62cd1801e.png)" />
+</p>
