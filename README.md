@@ -45,6 +45,9 @@ Facial recognition is becoming more prominent in our society. It has made major 
   <img src="https://user-images.githubusercontent.com/58062535/175374824-1d2e58a7-403f-4fdd-858e-61bc970ed1b1.png" />
 </p>
 
+## GUI of the project
+
+
 ## Team Members
 [Riya Negi](https://github.com/riyanegi1211)
 
