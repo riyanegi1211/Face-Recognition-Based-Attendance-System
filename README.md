@@ -47,6 +47,23 @@ Facial recognition is becoming more prominent in our society. It has made major 
 
 ## GUI of the project
 
+The snapshots below demonstrate the GUI Interface of the attendance system, which is divided into several sections as mentioned below.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58062535/176115084-2ede7a80-c3d3-4787-a4a3-f8e6e90d232d.png" />
+</p>
+Main Window: It contains the options such as Admin, Member and Quit. The user will choose the preferred option based on its accessibility.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58062535/176115357-9daa4860-bcbf-4596-ac9c-181ce8b47fc2.png" />
+</p>
+Admin Login Window: It is used to input the username and password of the admin account. If the username and password match with the admin account then it will login to the next window otherwise it will prompt you to re-enter the username and password.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58062535/176115530-7350c70f-3238-49e4-804a-f5ccb3745ece.png" />
+</p>
+AutoMail Window: This window allows the admin to mail the attendance report to the respective mail ID from the admin’s account credentials. This window will login only when the user will be able to provide the correct admin username and password.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58062535/176115710-02b34564-01db-465f-abd6-2c162aec4c11.png"/>
+</p>
 
 ## Team Members
 [Riya Negi](https://github.com/riyanegi1211)
